@@ -1,3 +1,15 @@
+# Read Green
+if you want to run springboot on local go to
+```cd complete ``` <br>
+and then use this command to run maven <br>
+```mvn spring-boot:run ```
+<br>
+after that go to your browser
+```http://localhost:8081//```
+and you will see output like this <br>
+![springboot-hellowolrd](https://cdn.discordapp.com/attachments/1067458504014708767/1072206838956826644/hellowold-in-springboot.png)
+
+
 # Software Development in Practice by TN Incorparation
 Build a "Web application" with Spring Boot, Maven, and MySQL
 ## Version Control with Git, and GitHub
